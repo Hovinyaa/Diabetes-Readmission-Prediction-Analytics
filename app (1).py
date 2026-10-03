@@ -3,6 +3,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 import shap
+import matplotlib.pyplot as plt
 from catboost import CatBoostClassifier
 
 st.set_page_config(page_title="Diabetes Readmission Predictor", page_icon="🏥", layout="wide")
@@ -189,7 +190,16 @@ if st.button("🔮 Predict Readmission Outcome", type="primary", use_container_w
     top_explanation = explanation.head(10).copy()
     top_explanation = top_explanation.sort_values("SHAP Value")
 
-    st.bar_chart(top_explanation.set_index("Feature")["SHAP Value"])
+    # Horizontal SHAP chart keeps long feature names readable.
+    fig, ax = plt.subplots(figsize=(10, 5.5))
+    ax.barh(top_explanation["Feature"], top_explanation["SHAP Value"])
+    ax.axvline(0, linewidth=1)
+    ax.set_xlabel("SHAP Value")
+    ax.set_ylabel("Feature")
+    ax.set_title(f"Top Feature Contributions to {prediction} Prediction")
+    fig.tight_layout()
+    st.pyplot(fig, use_container_width=True)
+    plt.close(fig)
 
     display_explanation = explanation.head(10)[
         ["Feature", "SHAP Value", "Input Value", "Direction"]

@@ -1,2 +1,5 @@
-# Diabetes-Readmission-Prediction-Analytics
-End-to-end healthcare data science project combining SQL, Python, machine learning, SHAP explainability, and Power BI analytics to study diabetes readmission outcomes.
+# Diabetes Readmission Predictor
+
+Streamlit portfolio application for a 3-class diabetes readmission model.
+
+Educational demonstration only; not clinically validated or intended for patient care.

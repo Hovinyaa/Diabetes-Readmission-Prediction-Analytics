@@ -1,0 +1,521 @@
+diag_3digit,category
+250,Endocrine/Metabolic
+428,Circulatory
+737,Musculoskeletal
+572,Digestive
+V57,Supplementary
+462,Respiratory
+486,Respiratory
+618,Genitourinary
+414,Circulatory
+410,Circulatory
+398,Circulatory
+997,Injury/Poisoning
+569,Digestive
+185,Neoplasms
+434,Circulatory
+599,Genitourinary
+491,Respiratory
+402,Circulatory
+244,Endocrine/Metabolic
+427,Circulatory
+578,Digestive
+401,Circulatory
+295,Mental Health
+560,Digestive
+642,Other
+807,Injury/Poisoning
+446,Circulatory
+515,Respiratory
+682,Skin
+235,Neoplasms
+196,Neoplasms
+574,Digestive
+162,Neoplasms
+724,Musculoskeletal
+996,Injury/Poisoning
+281,Blood
+786,Symptoms
+466,Respiratory
+730,Musculoskeletal
+V53,Supplementary
+820,Injury/Poisoning
+648,Other
+557,Digestive
+577,Digestive
+435,Circulatory
+276,Endocrine/Metabolic
+198,Neoplasms
+715,Musculoskeletal
+441,Circulatory
+575,Digestive
+728,Musculoskeletal
+593,Genitourinary
+440,Circulatory
+707,Skin
+411,Circulatory
+288,Blood
+296,Mental Health
+722,Musculoskeletal
+516,Respiratory
+969,Injury/Poisoning
+433,Circulatory
+112,Infectious
+530,Digestive
+458,Circulatory
+535,Digestive
+782,Symptoms
+780,Symptoms
+558,Digestive
+285,Blood
+431,Circulatory
+340,Nervous System
+38,Infectious
+351,Nervous System
+153,Neoplasms
+562,Digestive
+596,Genitourinary
+358,Nervous System
+571,Digestive
+998,Injury/Poisoning
+654,Other
+455,Circulatory
+183,Neoplasms
+V58,Supplementary
+721,Musculoskeletal
+518,Respiratory
+532,Digestive
+738,Musculoskeletal
+311,Mental Health
+531,Digestive
+157,Neoplasms
+812,Injury/Poisoning
+293,Mental Health
+592,Genitourinary
+444,Circulatory
+424,Circulatory
+823,Injury/Poisoning
+787,Symptoms
+482,Respiratory
+585,Genitourinary
+644,Other
+426,Circulatory
+595,Genitourinary
+416,Circulatory
+727,Musculoskeletal
+789,Symptoms
+821,Injury/Poisoning
+507,Respiratory
+756,Congenital
+805,Injury/Poisoning
+658,Other
+280,Blood
+733,Musculoskeletal
+420,Circulatory
+79,Infectious
+292,Mental Health
+995,Injury/Poisoning
+453,Circulatory
+404,Circulatory
+218,Neoplasms
+669,Other
+868,Injury/Poisoning
+729,Musculoskeletal
+584,Genitourinary
+220,Neoplasms
+346,Nervous System
+457,Circulatory
+456,Circulatory
+540,Digestive
+576,Digestive
+415,Circulatory
+189,Neoplasms
+626,Genitourinary
+493,Respiratory
+726,Musculoskeletal
+958,Injury/Poisoning
+366,Nervous System
+783,Symptoms
+794,Symptoms
+174,Neoplasms
+598,Genitourinary
+781,Symptoms
+191,Neoplasms
+283,Blood
+197,Neoplasms
+359,Nervous System
+386,Nervous System
+135,Infectious
+573,Digestive
+331,Nervous System
+965,Injury/Poisoning
+210,Neoplasms
+117,Infectious
+788,Symptoms
+959,Injury/Poisoning
+553,Digestive
+255,Endocrine/Metabolic
+202,Neoplasms
+423,Circulatory
+508,Respiratory
+403,Circulatory
+397,Circulatory
+286,Blood
+436,Circulatory
+723,Musculoskeletal
+211,Neoplasms
+39,Infectious
+294,Mental Health
+652,Other
+590,Genitourinary
+233,Neoplasms
+284,Blood
+425,Circulatory
+451,Circulatory
+345,Nervous System
+348,Nervous System
+600,Genitourinary
+824,Injury/Poisoning
+496,Respiratory
+241,Endocrine/Metabolic
+413,Circulatory
+808,Injury/Poisoning
+851,Injury/Poisoning
+312,Mental Health
+568,Digestive
+924,Injury/Poisoning
+801,Injury/Poisoning
+376,Nervous System
+437,Circulatory
+785,Symptoms
+8,Infectious
+913,Injury/Poisoning
+251,Endocrine/Metabolic
+225,Neoplasms
+297,Mental Health
+443,Circulatory
+564,Digestive
+987,Injury/Poisoning
+641,Other
+552,Digestive
+511,Respiratory
+681,Skin
+942,Injury/Poisoning
+290,Mental Health
+459,Circulatory
+238,Neoplasms
+911,Injury/Poisoning
+298,Mental Health
+873,Injury/Poisoning
+625,Genitourinary
+442,Circulatory
+199,Neoplasms
+550,Digestive
+362,Nervous System
+922,Injury/Poisoning
+719,Musculoskeletal
+182,Neoplasms
+616,Genitourinary
+799,Symptoms
+V66,Supplementary
+784,Symptoms
+200,Neoplasms
+570,Digestive
+303,Mental Health
+309,Mental Health
+962,Injury/Poisoning
+151,Neoplasms
+537,Digestive
+714,Musculoskeletal
+9,Infectious
+278,Endocrine/Metabolic
+349,Nervous System
+791,Symptoms
+992,Injury/Poisoning
+475,Respiratory
+591,Genitourinary
+536,Digestive
+172,Neoplasms
+291,Mental Health
+275,Endocrine/Metabolic
+438,Circulatory
+304,Mental Health
+582,Genitourinary
+864,Injury/Poisoning
+512,Respiratory
+474,Respiratory
+860,Injury/Poisoning
+759,Congenital
+429,Circulatory
+852,Injury/Poisoning
+49,Infectious
+519,Respiratory
+253,Endocrine/Metabolic
+556,Digestive
+396,Circulatory
+227,Neoplasms
+983,Injury/Poisoning
+430,Circulatory
+695,Skin
+188,Neoplasms
+300,Mental Health
+308,Mental Health
+716,Musculoskeletal
+252,Endocrine/Metabolic
+152,Neoplasms
+320,Nervous System
+968,Injury/Poisoning
+204,Neoplasms
+680,Skin
+42,Infectious
+492,Respiratory
+718,Musculoskeletal
+533,Digestive
+11,Infectious
+513,Respiratory
+711,Musculoskeletal
+664,Other
+447,Circulatory
+150,Neoplasms
+822,Injury/Poisoning
+878,Injury/Poisoning
+421,Circulatory
+205,Neoplasms
+850,Injury/Poisoning
+161,Neoplasms
+607,Genitourinary
+274,Endocrine/Metabolic
+510,Respiratory
+567,Digestive
+V55,Supplementary
+277,Endocrine/Metabolic
+239,Neoplasms
+581,Genitourinary
+289,Blood
+566,Digestive
+621,Genitourinary
+693,Skin
+487,Respiratory
+480,Respiratory
+485,Respiratory
+145,Neoplasms
+461,Respiratory
+388,Nervous System
+840,Injury/Poisoning
+710,Musculoskeletal
+481,Respiratory
+V56,Supplementary
+324,Nervous System
+815,Injury/Poisoning
+154,Neoplasms
+432,Circulatory
+478,Respiratory
+203,Neoplasms
+790,Symptoms
+717,Musculoskeletal
+195,Neoplasms
+490,Respiratory
+306,Mental Health
+620,Genitourinary
+611,Genitourinary
+891,Injury/Poisoning
+242,Endocrine/Metabolic
+814,Injury/Poisoning
+223,Neoplasms
+703,Skin
+464,Respiratory
+825,Injury/Poisoning
+967,Injury/Poisoning
+357,Nervous System
+966,Injury/Poisoning
+810,Injury/Poisoning
+608,Genitourinary
+614,Genitourinary
+380,Nervous System
+541,Digestive
+465,Respiratory
+155,Neoplasms
+180,Neoplasms
+843,Injury/Poisoning
+813,Injury/Poisoning
+753,Congenital
+551,Digestive
+355,Nervous System
+41,Infectious
+261,Endocrine/Metabolic
+272,Endocrine/Metabolic
+47,Infectious
+394,Circulatory
+454,Circulatory
+528,Digestive
+655,Other
+892,Injury/Poisoning
+797,Symptoms
+522,Digestive
+555,Digestive
+671,Other
+514,Respiratory
+V54,Supplementary
+928,Injury/Poisoning
+972,Injury/Poisoning
+897,Injury/Poisoning
+332,Nervous System
+920,Injury/Poisoning
+226,Neoplasms
+305,Mental Health
+867,Injury/Poisoning
+V45,Supplementary
+263,Endocrine/Metabolic
+945,Injury/Poisoning
+696,Skin
+53,Infectious
+350,Nervous System
+691,Skin
+521,Digestive
+526,Digestive
+659,Other
+473,Respiratory
+70,Infectious
+246,Endocrine/Metabolic
+802,Injury/Poisoning
+524,Digestive
+705,Skin
+171,Neoplasms
+323,Nervous System
+307,Mental Health
+Unk,Unknown
+661,Other
+230,Neoplasms
+745,Congenital
+534,Digestive
+736,Musculoskeletal
+193,Neoplasms
+594,Genitourinary
+341,Nervous System
+374,Nervous System
+999,Injury/Poisoning
+483,Respiratory
+921,Injury/Poisoning
+579,Digestive
+694,Skin
+156,Neoplasms
+586,Genitourinary
+982,Injury/Poisoning
+282,Blood
+237,Neoplasms
+660,Other
+463,Respiratory
+865,Injury/Poisoning
+720,Musculoskeletal
+816,Injury/Poisoning
+617,Genitourinary
+470,Respiratory
+494,Respiratory
+936,Injury/Poisoning
+287,Blood
+82,Infectious
+653,Other
+445,Circulatory
+663,Other
+588,Genitourinary
+333,Nervous System
+935,Injury/Poisoning
+342,Nervous System
+35,Infectious
+314,Mental Health
+V63,Supplementary
+3,Infectious
+405,Circulatory
+208,Neoplasms
+656,Other
+933,Injury/Poisoning
+75,Infectious
+686,Skin
+623,Genitourinary
+646,Other
+131,Infectious
+971,Injury/Poisoning
+988,Injury/Poisoning
+882,Injury/Poisoning
+310,Mental Health
+844,Injury/Poisoning
+977,Injury/Poisoning
+344,Nervous System
+793,Symptoms
+173,Neoplasms
+527,Digestive
+141,Neoplasms
+327,Nervous System
+184,Neoplasms
+361,Nervous System
+709,Skin
+923,Injury/Poisoning
+412,Circulatory
+363,Nervous System
+V71,Supplementary
+604,Genitourinary
+299,Mental Health
+700,Skin
+627,Genitourinary
+565,Digestive
+529,Digestive
+881,Injury/Poisoning
+66,Infectious
+665,Other
+31,Infectious
+941,Injury/Poisoning
+337,Nervous System
+54,Infectious
+34,Infectious
+836,Injury/Poisoning
+88,Infectious
+685,Skin
+370,Nervous System
+5,Infectious
+542,Digestive
+383,Nervous System
+835,Injury/Poisoning
+215,Neoplasms
+36,Infectious
+845,Injury/Poisoning
+806,Injury/Poisoning
+136,Infectious
+273,Endocrine/Metabolic
+706,Skin
+V07,Supplementary
+826,Injury/Poisoning
+934,Injury/Poisoning
+335,Nervous System
+601,Genitourinary
+622,Genitourinary
+917,Injury/Poisoning
+354,Nervous System
+952,Injury/Poisoning
+886,Injury/Poisoning
+338,Nervous System
+214,Neoplasms
+903,Injury/Poisoning
+919,Injury/Poisoning
+800,Injury/Poisoning
+158,Neoplasms
+229,Neoplasms
+708,Skin
+94,Infectious
+382,Nervous System
+147,Neoplasms
+368,Nervous System
+747,Congenital
+633,Other
+615,Genitourinary
+356,Nervous System
+322,Nervous System
+832,Injury/Poisoning
+110,Infectious
+847,Injury/Poisoning
+725,Musculoskeletal
+914,Injury/Poisoning
+142,Neoplasms
+379,Nervous System
+647,Other
+52,Infectious
+866,Injury/Poisoning

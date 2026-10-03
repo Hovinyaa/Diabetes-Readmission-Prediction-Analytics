@@ -237,5 +237,4 @@ Master's in Data Science | Bioinformatics & Computational Biology
 
 **Areas demonstrated in this project:**
 
-Healthcare Analytics • Machine Learning • SQL • Python • Power BI •  
-Explainable AI • Data Visualization • Model Deployment
+Healthcare Analytics • Machine Learning • SQL • Python • Power BI •  Explainable AI • Data Visualization • Model Deployment

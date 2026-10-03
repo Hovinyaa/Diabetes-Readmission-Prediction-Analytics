@@ -200,5 +200,35 @@ diabetes-readmission-prediction/
 ├── README.md
 │
 ├── final_enhanced_catboost.cbm
-├── feature_metadata.json
-└── diagnosis_mapping.csv
+
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- CatBoost
+- SHAP
+- Scikit-learn
+- PostgreSQL / Supabase
+- Power BI
+- Streamlit
+- GitHub
+
+
+## ⚠️ Disclaimer
+This project is an educational and portfolio demonstration of healthcare
+data science and machine learning.
+The model has not been clinically validated and should not be used to make
+clinical decisions, determine patient treatment, or replace professional
+medical judgement.
+The Streamlit application should only be demonstrated using appropriate
+non-identifiable or hypothetical information.
+
+
+## 👩‍💻 Author
+[HOVINYAA SELVARAJU]
+Master's in Data Science | Bioinformatics & Computational Biology
+Areas demonstrated in this project:
+Healthcare Analytics • Machine Learning • SQL • Python • Power BI •
+Explainable AI • Data Visualization • Model Deployment
+
